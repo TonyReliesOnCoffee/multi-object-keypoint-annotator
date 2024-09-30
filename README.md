@@ -53,6 +53,7 @@ PyQt-based Image/Video multi-object key-point annotator
         "no_keypoints": 2
     }
 }
+```
 
 ### Video Tutorial
 [Watch the video on YouTube](https://youtu.be/nMeU-5ALtis)
