@@ -16,4 +16,40 @@ PyQt-based Image/Video multi-object key-point annotator
 ![Annotated Bowl](./label_on_separate_images/annotated_images/annotated_bowl.jpg)
 
 ### Saved JSON
-```json { "bowl": { "keypoints": [ [ 287, 190 ], [ 291, 386 ], [ 360, 301 ], [ 217, 284 ] ], "no_keypoints": 4 }, "arm": { "keypoints": [ [ 95, 204 ], [ 182, 346 ] ], "no_keypoints": 2 } } ```
+```json
+{
+    "bowl": {
+        "keypoints": [
+            [
+                287,
+                190
+            ],
+            [
+                291,
+                386
+            ],
+            [
+                360,
+                301
+            ],
+            [
+                217,
+                284
+            ]
+        ],
+        "no_keypoints": 4
+    },
+    "arm": {
+        "keypoints": [
+            [
+                95,
+                204
+            ],
+            [
+                182,
+                346
+            ]
+        ],
+        "no_keypoints": 2
+    }
+}
